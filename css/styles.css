@@ -1,0 +1,16 @@
+:root {
+
+
+	--rojo-100: #D21312;
+	--rojo-50: #ED2B2A;
+	--rojo-claro: #F15A59;
+
+
+}
+
+
+
+
+.bg-danger {
+	background-color: var(--rojo-100) !important;
+}
